@@ -1,9 +1,9 @@
 {
-    "name": "T.M.K 1 Logistical LTD",
-    "short_name": "T.M.K 1 Logistical LTD",
+    "name": "TMK 1",
+    "short_name": "TMK 1",
     "icons": [
         {
-            "src": "android-chrome-144x144.png",
+            "src": "/android-chrome-144x144.png",
             "sizes": "144x144",
             "type": "image/png"
         }
