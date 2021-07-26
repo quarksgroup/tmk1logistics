@@ -3725,3 +3725,24 @@ caption {
   box-shadow: 0px 2px 20px 0px #0072bb1a;
   padding: 15px 20px;
 }
+
+button.load {
+  animation: bounce 0.75s infinite;
+}
+@keyframes bounce {
+  0% {
+    transform: translate(0px, 0px);
+  }
+
+  30% {
+    transform: translate(5px, 0px);
+  }
+
+  75% {
+    transform: translate(-5px, 0px);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
